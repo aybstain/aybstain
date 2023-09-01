@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name], a Data Scientist
+# Hi there! 👋 I'm Ayoub, a Data Scientist
 
 Welcome to my GitHub profile! I'm passionate about leveraging data to gain insights and make informed decisions. I love working on challenging problems, exploring new datasets, and turning data into meaningful stories. Here, you'll find a collection of my data science projects and contributions. Feel free to explore and collaborate!
 
